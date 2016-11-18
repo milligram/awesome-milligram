@@ -12,7 +12,7 @@ Milligram provides a minimal setup of styles for a fast and clean starting point
 
 ## Table of Contents
 
-- [Website](#website)
+- [Websites](#websites)
 - [Themes](#themes)
 - [Admin Dashboards](#admin-dashboards)
 - [UI Kits](#ui-kits)
@@ -20,7 +20,7 @@ Milligram provides a minimal setup of styles for a fast and clean starting point
 - [License](#license)
 
 
-## Website 
+## Websites
 - [BEM — Block Element Modifier](http://getbem.com/)
 - [Escolas do Amanhã](http://www.escolasdoamanha.com.br/)
 - [Lets Food](http://letsfood.co/)
