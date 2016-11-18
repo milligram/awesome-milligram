@@ -30,6 +30,7 @@ Milligram provides a minimal setup of styles for a fast and clean starting point
 
 ## Themes
 - [Millikyl](https://github.com/fareez-ahamed/millikyl)
+- [MilliGrav](https://github.com/moreplavec/MilliGrav)
 
 
 ## UI Kits
