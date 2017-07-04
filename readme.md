@@ -16,7 +16,7 @@ Milligram provides a minimal setup of styles for a fast and clean starting point
 - [Admin Dashboards](#admin-dashboards)
 - [Apps](#apps)
 - [Themes](#themes)
-- [UI Kits](#ui-kits)
+- [Boilerplates/Kits/Starters](#kits)
 - [Articles](#articles)
 - [CDNs](#cdns)
 - [Contributing](#contributing)
@@ -59,7 +59,9 @@ Milligram provides a minimal setup of styles for a fast and clean starting point
 - [MilliGrav](https://github.com/moreplavec/MilliGrav)
 
 
-## UI Kits
+## Boilerplates/Kits/Starters
+
+- [Inferno-Milligram-Boilerplate](https://github.com/KhaledElAnsari/inferno-milligram-boilerplate)
 
 
 ## Articles
