@@ -1,11 +1,11 @@
-<a href="http://milligram.github.io"><img width="100%" src="https://milligram.github.io/images/thumbnail.jpg" alt="Milligram - A minimalist CSS framework"></a>
+<a href="https://milligram.io"><img width="100%" src="https://milligram.io/images/thumbnail.jpg" alt="Milligram - A minimalist CSS framework"></a>
 
 # Awesome Milligram [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
 > A curated list of Milligram resources. Inspired by awesome.
 
 
-## Why it's awesome?
+## Why it's awesome
 
 Milligram provides a minimal setup of styles for a fast and clean starting point. Just it! **Only 2kb gzipped!** It's not about a UI framework. Specially designed for better performance and higher productivity with fewer properties to reset resulting in cleaner code. Hope you enjoy!
 
@@ -74,4 +74,4 @@ Want to contribute? Follow these [recommendations](https://github.com/milligram/
 
 ## License
 
-Designed with ♥ by [CJ Patoilo](http://cjpatoilo.com). Licensed under the [MIT License](http://cjpatoilo.mit-license.org).
+Designed with ♥ by [CJ Patoilo](https://twitter.com/cjpatoilo). Licensed under the [MIT License](license).
