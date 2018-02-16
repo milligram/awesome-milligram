@@ -13,9 +13,10 @@ Milligram provides a minimal setup of styles for a fast and clean starting point
 ## Table of Contents
 
 - [Websites](#websites)
-- [Themes](#themes)
 - [Admin Dashboards](#admin-dashboards)
-- [UI Kits](#ui-kits)
+- [Apps](#apps)
+- [Themes](#themes)
+- [Boilerplates/Kits/Starters](#kits)
 - [Articles](#articles)
 - [CDNs](#cdns)
 - [Contributing](#contributing)
@@ -26,8 +27,32 @@ Milligram provides a minimal setup of styles for a fast and clean starting point
 - [BEM — Block Element Modifier](http://getbem.com/)
 - [Escolas do Amanhã](http://www.escolasdoamanha.com.br/)
 - [Lets Food](http://letsfood.co/)
+- [Snapchat Story Views](https://snapstoryviews.com/)
+- [American Giant](http://www.american-giant.com/)
+- [Unip Warehouse](http://unipwarehouse.com/)
+- [Remote Friendly](http://remotefriendly.work/)
+- [UTM Build](https://utmbuilder.net/)
+- [React + Redux boilerplate](https://alexandreneves.github.io/)
+- [Nadim Basalamah](https://dimbslmh.github.io/)
+- [Dwarak](https://dwarak.in/)
+- [Jeevan U Thayannur](http://www.jeevanu.com/)
+- [Eneko Sarasola](http://exocuted.github.io/)
+- [Slow13](https://slow13.github.io/)
+- [Teck Rookie](http://techrookie.github.io/)
+- [Danielle Teixeira](https://dannyserena.github.io/)
+- [search Tempest](https://tajtaj.github.io/searchTempest/)
+- [Playdance Fit](http://playdancefit.com.br/)
+
 
 ## Admin Dashboards
+
+- [Letsencrypt Heroku](https://github.com/Drawbotics/letsencrypt-heroku-dashboard)
+
+
+## Apps
+
+- [Desktop Trello Notes](https://github.com/jc4p/desktop-trello-notes)
+- [PayPal incontext checkout integration](https://github.com/vinniegarcia/paypal-incontext-browserify-example)
 
 
 ## Themes
@@ -35,7 +60,9 @@ Milligram provides a minimal setup of styles for a fast and clean starting point
 - [MilliGrav](https://github.com/moreplavec/MilliGrav)
 
 
-## UI Kits
+## Boilerplates/Kits/Starters
+
+- [Inferno-Milligram-Boilerplate](https://github.com/KhaledElAnsari/inferno-milligram-boilerplate)
 
 
 ## Articles
