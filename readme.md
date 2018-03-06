@@ -42,6 +42,7 @@ Milligram provides a minimal setup of styles for a fast and clean starting point
 - [Danielle Teixeira](https://dannyserena.github.io/)
 - [search Tempest](https://tajtaj.github.io/searchTempest/)
 - [Playdance Fit](http://playdancefit.com.br/)
+- [QEdu](http://qedu.org.br/)
 
 
 ## Admin Dashboards
