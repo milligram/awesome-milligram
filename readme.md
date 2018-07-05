@@ -48,9 +48,11 @@ Milligram provides a minimal setup of styles for a fast and clean starting point
 
 ## Apps
 
+- [Airform](https://airform.io)
+- [Chalkboard](https://chalkboard.space)
 - [Desktop Trello Notes](https://github.com/jc4p/desktop-trello-notes)
 - [PayPal incontext checkout integration](https://github.com/vinniegarcia/paypal-incontext-browserify-example)
-- [JSON Store](https://jsonstore.io)
+- [JSON Store](https://www.jsonstore.io)
 
 ## Themes
 
