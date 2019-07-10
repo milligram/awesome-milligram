@@ -91,11 +91,12 @@ Milligram provides a minimal setup of styles for a fast and clean starting point
 
 ## CDNs
 
-- [arvancloud](https://lib.arvancloud.com/en/milligram)
-- [bootcdn](http://www.bootcdn.cn/milligram)
+- [ArvanCloud](https://lib.arvancloud.com/en/milligram)
+- [BootCDN](http://www.bootcdn.cn/milligram)
 - [cdnjs](https://cdnjs.com/libraries/milligram)
 - [cdnpkg](https://www.cdnpkg.com/milligram)
-- [jsdelivr](https://www.jsdelivr.com/package/npm/milligram)
+- [JSDelivr](https://www.jsdelivr.com/package/npm/milligram)
+- [PageCDN](https://pagecdn.com/lib/milligram)
 
 ## Contributing
 
