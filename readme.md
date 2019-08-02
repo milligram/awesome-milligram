@@ -33,6 +33,7 @@ Milligram provides a minimal setup of styles for a fast and clean starting point
 - [Jeevan U Thayannur](http://www.jeevanu.com/)
 - [Playdance Fit](http://playdancefit.com.br/)
 - [QEdu](http://qedu.org.br/)
+- [Node.js Live](https://live.nodejs.org)
 - [React + Redux boilerplate](https://alexandreneves.github.io/)
 - [Remote Friendly](http://remotefriendly.work/)
 - [Search Tempest](https://tajtaj.github.io/searchTempest/)
