@@ -24,10 +24,12 @@ Milligram provides a minimal setup of styles for a fast and clean starting point
 
 - [American Giant](http://www.american-giant.com/)
 - [BEM — Block Element Modifier](http://getbem.com/)
+- [ConsenSys](https://consensys.net/)
 - [Danielle Teixeira](https://dannyserena.github.io/)
 - [Dwarak](https://dwarak.in/)
 - [Eneko Sarasola](http://exocuted.github.io/)
 - [Escolas do Amanhã](http://www.escolasdoamanha.com.br/)
+- [Flutter Architecture Samples](http://fluttersamples.com/)
 - [Lets Food](https://letsfood.space/)
 - [Nadim Basalamah](https://dimbslmh.github.io/)
 - [Jeevan U Thayannur](http://www.jeevanu.com/)
