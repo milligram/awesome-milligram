@@ -62,6 +62,7 @@ Milligram provides a minimal setup of styles for a fast and clean starting point
 - [Millikyl](https://github.com/fareez-ahamed/millikyl)
 - [MilliGrav](https://github.com/moreplavec/MilliGrav)
 - [Graymill - a Pelican theme](https://github.com/rn4ir/graymill)
+- [Milligram Dark Mode](https://github.com/femto-apps/lib-style)
 
 ## Boilerplates/Kits/Starters
 
